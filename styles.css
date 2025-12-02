@@ -13,8 +13,8 @@ body {
     display: block;
     max-width: 400px;
     margin: 20px auto;
-    color: #616161;
-    background: white;
+    color: #A56106;
+    background: rgb(249, 238, 84);
     padding: 20px;
     border-radius: 10px;
     text-align: center;
@@ -22,7 +22,7 @@ body {
 }
 .profile-card h2,
 .profile-card h3 {
-    color: #4e4e4e;
+    color: #A56106;
     margin-top: 20px;
 }
 .profile-pic {
@@ -34,7 +34,7 @@ body {
 .desc {
     margin-top: 15px;
     font-size: 1rem;
-    color: #616161;
+    color: #181463;
     line-height: 1.4;
 }
 
@@ -46,8 +46,8 @@ body {
     font-size: 1.5rem;
     display: inline-block;
     padding: 10px 15px;
-    background-color: #007bff;
-    color: white;
+    background-color: #2955DC;
+    color: #FFE1CD;
     border: none;
     border-radius: 8px;
     cursor: pointer;
@@ -55,11 +55,11 @@ body {
 }
 
 .btn:hover {
-    background-color: #0056b3;
+    background-color: #181463;
 }
 
 .scroll-box {
-    background: #f0f0f0;
+    background: #FFE1CD;
     max-height: 150px;
     overflow-y: auto;
     margin-top: 10px;
@@ -73,5 +73,5 @@ body {
     margin-bottom: 10px;
     font-size: 0.9rem;
     line-height: 1.4;
-    color: #616161;
+    color: #181463;
 }
